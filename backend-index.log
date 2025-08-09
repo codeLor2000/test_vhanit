@@ -1,0 +1,39 @@
+Attempting to connect to MySQL...
+Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
+Backend listening on port 3001
+Connected to MySQL successfully
+SSE error: Error: aborted
+    at abortIncoming (node:_http_server:797:17)
+    at socketOnClose (node:_http_server:791:3)
+    at Socket.emit (node:events:531:35)
+    at TCP.<anonymous> (node:net:339:12) {
+  code: 'ECONNRESET'
+}
+SSE client disconnected
+Database query error: Error: Server shutdown in progress
+    at Packet.asError (/Users/user1/Documents/company/test_vhanit/backend/node_modules/mysql2/lib/packets/packet.js:740:17)
+    at Query.execute (/Users/user1/Documents/company/test_vhanit/backend/node_modules/mysql2/lib/commands/command.js:29:26)
+    at Connection.handlePacket (/Users/user1/Documents/company/test_vhanit/backend/node_modules/mysql2/lib/base/connection.js:475:34)
+    at PacketParser.onPacket (/Users/user1/Documents/company/test_vhanit/backend/node_modules/mysql2/lib/base/connection.js:93:12)
+    at PacketParser.executeStart (/Users/user1/Documents/company/test_vhanit/backend/node_modules/mysql2/lib/packet_parser.js:75:16)
+    at Socket.<anonymous> (/Users/user1/Documents/company/test_vhanit/backend/node_modules/mysql2/lib/base/connection.js:100:25)
+    at Socket.emit (node:events:519:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5) {
+  code: 'ER_SERVER_SHUTDOWN',
+  errno: 1053,
+  sqlState: '08S01',
+  sqlMessage: 'Server shutdown in progress',
+  sql: 'SELECT * FROM car_pos'
+}
+MySQL error: Error: Connection lost: The server closed the connection.
+    at Socket.<anonymous> (/Users/user1/Documents/company/test_vhanit/backend/node_modules/mysql2/lib/base/connection.js:113:31)
+    at Socket.emit (node:events:519:28)
+    at TCP.<anonymous> (node:net:339:12) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+MySQL connection lost. Will attempt to reconnect...

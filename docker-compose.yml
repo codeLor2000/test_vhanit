@@ -1,0 +1,37 @@
+version: '3.8'
+services:
+  mysql:
+    image: mysql:5.7
+    container_name: mysql_vhanit
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: test_vhanit
+    ports:
+      - '3306:3306'
+    volumes:
+      - ./mysql-init:/docker-entrypoint-initdb.d
+    command: --default-authentication-plugin=mysql_native_password
+
+  # backend:
+  #   build: ./backend
+  #   container_name: backend_vhanit
+  #   restart: always
+  #   environment:
+  #     - DB_HOST=mysql
+  #     - DB_USER=root
+  #     - DB_PASSWORD=root
+  #     - DB_NAME=test_vhanit
+  #   ports:
+  #     - '3001:3001'
+  #   depends_on:
+  #     - mysql 
+
+  # frontend:
+  #   build: ./frontend
+  #   container_name: frontend_vhanit
+  #   restart: always
+  #   ports:
+  #     - '3000:3000'
+  #   depends_on:
+  #     - backend 
