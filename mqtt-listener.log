@@ -11,22 +11,6 @@ MySQL error: Error: Connection lost: The server closed the connection.
 }
 MySQL connection lost. Reconnecting...
 mqtt connected
-Received message on topic: /138-81-54417/test
-Message payload: LAT=66.705231;LNG=92.947112;T1=23.05;SPD=14;CRS=295;TM=6896bf3c
-Topic parts: [ '', '138-81-54417', 'test' ]
-Processing new GPS format data
-=== PARSED GPS DATA ===
-REGNO: 138-81-54417
-JDATE: 20250809
-Machin_mac: test
-Time: 20250809 122340
-Latitude: 66.705231
-Longitude: 92.947112
-Speed: 14 Km/h
-Temperature: 23.05 ℃
-Heading: 295
-======================
-Database not connected, skipping data save for rkey: 138-81-54417
 Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
 Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
 Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
@@ -52,35 +36,67 @@ MySQL error: Error: Connection lost: The server closed the connection.
 }
 MySQL connection lost. Reconnecting...
 Received message on topic: /138-81-54417/test
-Message payload: LAT=60.249027;LNG=175.320650;T1=24.30;SPD=77;CRS=111;TM=6896bf3f
+Message payload: LAT=20.458404;LNG=178.784285;T1=23.41;SPD=78;CRS=306;TM=6897565d
 Topic parts: [ '', '138-81-54417', 'test' ]
 Processing new GPS format data
 === PARSED GPS DATA ===
 REGNO: 138-81-54417
 JDATE: 20250809
 Machin_mac: test
-Time: 20250809 122343
-Latitude: 60.249027
-Longitude: 175.32065
-Speed: 77 Km/h
-Temperature: 24.3 ℃
-Heading: 111
+Time: 20250809 230829
+Latitude: 20.458404
+Longitude: 178.784285
+Speed: 78 Km/h
+Temperature: 23.41 ℃
+Heading: 306
 ======================
 Database not connected, skipping data save for rkey: 138-81-54417
 Received message on topic: /138-81-54417/test
-Message payload: LAT=7.408676;LNG=124.674845;T1=22.59;SPD=67;CRS=345;TM=6896bf42
+Message payload: LAT=78.615635;LNG=75.694300;T1=26.97;SPD=22;CRS=223;TM=68975665
 Topic parts: [ '', '138-81-54417', 'test' ]
 Processing new GPS format data
 === PARSED GPS DATA ===
 REGNO: 138-81-54417
 JDATE: 20250809
 Machin_mac: test
-Time: 20250809 122346
-Latitude: 7.408676
-Longitude: 124.674845
-Speed: 67 Km/h
-Temperature: 22.59 ℃
-Heading: 345
+Time: 20250809 230837
+Latitude: 78.615635
+Longitude: 75.6943
+Speed: 22 Km/h
+Temperature: 26.97 ℃
+Heading: 223
+======================
+Database not connected, skipping data save for rkey: 138-81-54417
+Received message on topic: /138-81-54417/test
+Message payload: LAT=67.176329;LNG=40.760165;T1=23.88;SPD=51;CRS=324;TM=68975660
+Topic parts: [ '', '138-81-54417', 'test' ]
+Processing new GPS format data
+=== PARSED GPS DATA ===
+REGNO: 138-81-54417
+JDATE: 20250809
+Machin_mac: test
+Time: 20250809 230832
+Latitude: 67.176329
+Longitude: 40.760165
+Speed: 51 Km/h
+Temperature: 23.88 ℃
+Heading: 324
+======================
+Database not connected, skipping data save for rkey: 138-81-54417
+Received message on topic: /138-81-54417/test
+Message payload: LAT=53.376842;LNG=149.673998;T1=27.52;SPD=5;CRS=33;TM=68975668
+Topic parts: [ '', '138-81-54417', 'test' ]
+Processing new GPS format data
+=== PARSED GPS DATA ===
+REGNO: 138-81-54417
+JDATE: 20250809
+Machin_mac: test
+Time: 20250809 230840
+Latitude: 53.376842
+Longitude: 149.673998
+Speed: 5 Km/h
+Temperature: 27.52 ℃
+Heading: 33
 ======================
 Database not connected, skipping data save for rkey: 138-81-54417
 Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
@@ -100,438 +116,206 @@ Connected to MySQL
 Connected to MySQL
 Connected to MySQL
 Received message on topic: /138-81-54417/test
-Message payload: LAT=48.294545;LNG=152.130339;T1=22.54;SPD=68;CRS=315;TM=6896bf45
+Message payload: LAT=27.561813;LNG=108.951656;T1=25.32;SPD=6;CRS=135;TM=68975663
 Topic parts: [ '', '138-81-54417', 'test' ]
 Processing new GPS format data
 === PARSED GPS DATA ===
 REGNO: 138-81-54417
 JDATE: 20250809
 Machin_mac: test
-Time: 20250809 122349
-Latitude: 48.294545
-Longitude: 152.130339
-Speed: 68 Km/h
-Temperature: 22.54 ℃
-Heading: 315
+Time: 20250809 230835
+Latitude: 27.561813
+Longitude: 108.951656
+Speed: 6 Km/h
+Temperature: 25.32 ℃
+Heading: 135
 ======================
 ✅ Database updated successfully for rkey: 138-81-54417
 Affected rows: 1
 Received message on topic: /138-81-54417/test
-Message payload: LAT=24.093900;LNG=138.925603;T1=22.10;SPD=5;CRS=179;TM=6896bf48
+Message payload: LAT=82.267212;LNG=125.507884;T1=23.33;SPD=45;CRS=66;TM=6897566b
 Topic parts: [ '', '138-81-54417', 'test' ]
 Processing new GPS format data
 === PARSED GPS DATA ===
 REGNO: 138-81-54417
 JDATE: 20250809
 Machin_mac: test
-Time: 20250809 122352
-Latitude: 24.0939
-Longitude: 138.925603
-Speed: 5 Km/h
-Temperature: 22.1 ℃
-Heading: 179
+Time: 20250809 230843
+Latitude: 82.267212
+Longitude: 125.507884
+Speed: 45 Km/h
+Temperature: 23.33 ℃
+Heading: 66
 ======================
 ✅ Database updated successfully for rkey: 138-81-54417
 Affected rows: 2
 Received message on topic: /138-81-54417/test
-Message payload: LAT=26.715126;LNG=98.885938;T1=27.57;SPD=65;CRS=120;TM=6896bf4b
+Message payload: LAT=46.977946;LNG=127.790014;T1=22.55;SPD=14;CRS=170;TM=68975666
 Topic parts: [ '', '138-81-54417', 'test' ]
 Processing new GPS format data
 === PARSED GPS DATA ===
 REGNO: 138-81-54417
 JDATE: 20250809
 Machin_mac: test
-Time: 20250809 122355
-Latitude: 26.715126
-Longitude: 98.885938
-Speed: 65 Km/h
-Temperature: 27.57 ℃
-Heading: 120
-======================
-✅ Database updated successfully for rkey: 138-81-54417
-Affected rows: 2
-Received message on topic: /138-81-54417/test
-Message payload: LAT=72.190339;LNG=135.885072;T1=24.02;SPD=77;CRS=94;TM=6896bf4e
-Topic parts: [ '', '138-81-54417', 'test' ]
-Processing new GPS format data
-=== PARSED GPS DATA ===
-REGNO: 138-81-54417
-JDATE: 20250809
-Machin_mac: test
-Time: 20250809 122358
-Latitude: 72.190339
-Longitude: 135.885072
-Speed: 77 Km/h
-Temperature: 24.02 ℃
-Heading: 94
-======================
-✅ Database updated successfully for rkey: 138-81-54417
-Affected rows: 2
-Received message on topic: /138-81-54417/test
-Message payload: LAT=16.149834;LNG=12.922250;T1=20.91;SPD=63;CRS=105;TM=6896bf51
-Topic parts: [ '', '138-81-54417', 'test' ]
-Processing new GPS format data
-=== PARSED GPS DATA ===
-REGNO: 138-81-54417
-JDATE: 20250809
-Machin_mac: test
-Time: 20250809 122401
-Latitude: 16.149834
-Longitude: 12.92225
-Speed: 63 Km/h
-Temperature: 20.91 ℃
-Heading: 105
-======================
-✅ Database updated successfully for rkey: 138-81-54417
-Affected rows: 2
-Received message on topic: /138-81-54417/test
-Message payload: LAT=74.819257;LNG=103.441151;T1=28.80;SPD=90;CRS=236;TM=6896bf54
-Topic parts: [ '', '138-81-54417', 'test' ]
-Processing new GPS format data
-=== PARSED GPS DATA ===
-REGNO: 138-81-54417
-JDATE: 20250809
-Machin_mac: test
-Time: 20250809 122404
-Latitude: 74.819257
-Longitude: 103.441151
-Speed: 90 Km/h
-Temperature: 28.8 ℃
-Heading: 236
-======================
-✅ Database updated successfully for rkey: 138-81-54417
-Affected rows: 2
-Received message on topic: /138-81-54417/test
-Message payload: LAT=36.106247;LNG=161.375903;T1=28.49;SPD=52;CRS=35;TM=6896bf57
-Topic parts: [ '', '138-81-54417', 'test' ]
-Processing new GPS format data
-=== PARSED GPS DATA ===
-REGNO: 138-81-54417
-JDATE: 20250809
-Machin_mac: test
-Time: 20250809 122407
-Latitude: 36.106247
-Longitude: 161.375903
-Speed: 52 Km/h
-Temperature: 28.49 ℃
-Heading: 35
-======================
-✅ Database updated successfully for rkey: 138-81-54417
-Affected rows: 2
-Received message on topic: /138-81-54417/test
-Message payload: LAT=68.859326;LNG=29.237815;T1=22.82;SPD=84;CRS=216;TM=6896bf5a
-Topic parts: [ '', '138-81-54417', 'test' ]
-Processing new GPS format data
-=== PARSED GPS DATA ===
-REGNO: 138-81-54417
-JDATE: 20250809
-Machin_mac: test
-Time: 20250809 122410
-Latitude: 68.859326
-Longitude: 29.237815
-Speed: 84 Km/h
-Temperature: 22.82 ℃
-Heading: 216
-======================
-✅ Database updated successfully for rkey: 138-81-54417
-Affected rows: 2
-Received message on topic: /138-81-54417/test
-Message payload: LAT=88.212390;LNG=12.319396;T1=22.02;SPD=16;CRS=317;TM=6896bf5d
-Topic parts: [ '', '138-81-54417', 'test' ]
-Processing new GPS format data
-=== PARSED GPS DATA ===
-REGNO: 138-81-54417
-JDATE: 20250809
-Machin_mac: test
-Time: 20250809 122413
-Latitude: 88.21239
-Longitude: 12.319396
-Speed: 16 Km/h
-Temperature: 22.02 ℃
-Heading: 317
-======================
-✅ Database updated successfully for rkey: 138-81-54417
-Affected rows: 2
-Received message on topic: /138-81-54417/test
-Message payload: LAT=3.861627;LNG=134.376812;T1=20.77;SPD=99;CRS=350;TM=6896bf60
-Topic parts: [ '', '138-81-54417', 'test' ]
-Processing new GPS format data
-=== PARSED GPS DATA ===
-REGNO: 138-81-54417
-JDATE: 20250809
-Machin_mac: test
-Time: 20250809 122416
-Latitude: 3.861627
-Longitude: 134.376812
-Speed: 99 Km/h
-Temperature: 20.77 ℃
-Heading: 350
-======================
-✅ Database updated successfully for rkey: 138-81-54417
-Affected rows: 2
-Received message on topic: /138-81-54417/test
-Message payload: LAT=32.208731;LNG=66.353173;T1=26.92;SPD=75;CRS=293;TM=6896bf63
-Topic parts: [ '', '138-81-54417', 'test' ]
-Processing new GPS format data
-=== PARSED GPS DATA ===
-REGNO: 138-81-54417
-JDATE: 20250809
-Machin_mac: test
-Time: 20250809 122419
-Latitude: 32.208731
-Longitude: 66.353173
-Speed: 75 Km/h
-Temperature: 26.92 ℃
-Heading: 293
-======================
-✅ Database updated successfully for rkey: 138-81-54417
-Affected rows: 2
-Received message on topic: /138-81-54417/test
-Message payload: LAT=39.116682;LNG=49.160535;T1=20.25;SPD=71;CRS=165;TM=6896bf66
-Topic parts: [ '', '138-81-54417', 'test' ]
-Processing new GPS format data
-=== PARSED GPS DATA ===
-REGNO: 138-81-54417
-JDATE: 20250809
-Machin_mac: test
-Time: 20250809 122422
-Latitude: 39.116682
-Longitude: 49.160535
-Speed: 71 Km/h
-Temperature: 20.25 ℃
-Heading: 165
-======================
-✅ Database updated successfully for rkey: 138-81-54417
-Affected rows: 2
-Received message on topic: /138-81-54417/test
-Message payload: LAT=35.085822;LNG=139.538208;T1=26.63;SPD=75;CRS=1;TM=6896bf69
-Topic parts: [ '', '138-81-54417', 'test' ]
-Processing new GPS format data
-=== PARSED GPS DATA ===
-REGNO: 138-81-54417
-JDATE: 20250809
-Machin_mac: test
-Time: 20250809 122425
-Latitude: 35.085822
-Longitude: 139.538208
-Speed: 75 Km/h
-Temperature: 26.63 ℃
-Heading: 1
-======================
-✅ Database updated successfully for rkey: 138-81-54417
-Affected rows: 2
-Received message on topic: /138-81-54417/test
-Message payload: LAT=18.906683;LNG=36.305523;T1=25.65;SPD=4;CRS=49;TM=6896bf6c
-Topic parts: [ '', '138-81-54417', 'test' ]
-Processing new GPS format data
-=== PARSED GPS DATA ===
-REGNO: 138-81-54417
-JDATE: 20250809
-Machin_mac: test
-Time: 20250809 122428
-Latitude: 18.906683
-Longitude: 36.305523
-Speed: 4 Km/h
-Temperature: 25.65 ℃
-Heading: 49
-======================
-✅ Database updated successfully for rkey: 138-81-54417
-Affected rows: 2
-Received message on topic: /138-81-54417/test
-Message payload: LAT=60.775557;LNG=113.098930;T1=24.39;SPD=65;CRS=158;TM=6896bf6f
-Topic parts: [ '', '138-81-54417', 'test' ]
-Processing new GPS format data
-=== PARSED GPS DATA ===
-REGNO: 138-81-54417
-JDATE: 20250809
-Machin_mac: test
-Time: 20250809 122431
-Latitude: 60.775557
-Longitude: 113.09893
-Speed: 65 Km/h
-Temperature: 24.39 ℃
-Heading: 158
-======================
-✅ Database updated successfully for rkey: 138-81-54417
-Affected rows: 2
-Received message on topic: /138-81-54417/test
-Message payload: LAT=66.355109;LNG=113.205473;T1=22.55;SPD=24;CRS=25;TM=6896bf72
-Topic parts: [ '', '138-81-54417', 'test' ]
-Processing new GPS format data
-=== PARSED GPS DATA ===
-REGNO: 138-81-54417
-JDATE: 20250809
-Machin_mac: test
-Time: 20250809 122434
-Latitude: 66.355109
-Longitude: 113.205473
-Speed: 24 Km/h
+Time: 20250809 230838
+Latitude: 46.977946
+Longitude: 127.790014
+Speed: 14 Km/h
 Temperature: 22.55 ℃
-Heading: 25
+Heading: 170
 ======================
 ✅ Database updated successfully for rkey: 138-81-54417
 Affected rows: 2
 Received message on topic: /138-81-54417/test
-Message payload: LAT=87.632466;LNG=172.647059;T1=22.74;SPD=17;CRS=87;TM=6896bf75
+Message payload: LAT=75.176896;LNG=12.015115;T1=23.60;SPD=40;CRS=239;TM=6897566e
 Topic parts: [ '', '138-81-54417', 'test' ]
 Processing new GPS format data
 === PARSED GPS DATA ===
 REGNO: 138-81-54417
 JDATE: 20250809
 Machin_mac: test
-Time: 20250809 122437
-Latitude: 87.632466
-Longitude: 172.647059
-Speed: 17 Km/h
-Temperature: 22.74 ℃
-Heading: 87
+Time: 20250809 230846
+Latitude: 75.176896
+Longitude: 12.015115
+Speed: 40 Km/h
+Temperature: 23.6 ℃
+Heading: 239
 ======================
 ✅ Database updated successfully for rkey: 138-81-54417
 Affected rows: 2
 Received message on topic: /138-81-54417/test
-Message payload: LAT=31.663116;LNG=116.955573;T1=29.72;SPD=6;CRS=67;TM=6896bf78
+Message payload: LAT=10.917763;LNG=33.437861;T1=24.79;SPD=39;CRS=297;TM=68975669
 Topic parts: [ '', '138-81-54417', 'test' ]
 Processing new GPS format data
 === PARSED GPS DATA ===
 REGNO: 138-81-54417
 JDATE: 20250809
 Machin_mac: test
-Time: 20250809 122440
-Latitude: 31.663116
-Longitude: 116.955573
-Speed: 6 Km/h
-Temperature: 29.72 ℃
-Heading: 67
+Time: 20250809 230841
+Latitude: 10.917763
+Longitude: 33.437861
+Speed: 39 Km/h
+Temperature: 24.79 ℃
+Heading: 297
 ======================
 ✅ Database updated successfully for rkey: 138-81-54417
 Affected rows: 2
 Received message on topic: /138-81-54417/test
-Message payload: LAT=76.409933;LNG=130.868053;T1=27.54;SPD=69;CRS=132;TM=6896bf7b
+Message payload: LAT=59.275547;LNG=153.668965;T1=20.41;SPD=96;CRS=316;TM=68975671
 Topic parts: [ '', '138-81-54417', 'test' ]
 Processing new GPS format data
 === PARSED GPS DATA ===
 REGNO: 138-81-54417
 JDATE: 20250809
 Machin_mac: test
-Time: 20250809 122443
-Latitude: 76.409933
-Longitude: 130.868053
-Speed: 69 Km/h
-Temperature: 27.54 ℃
-Heading: 132
-======================
-✅ Database updated successfully for rkey: 138-81-54417
-Affected rows: 2
-Received message on topic: /138-81-54417/test
-Message payload: LAT=2.240684;LNG=98.071235;T1=28.81;SPD=9;CRS=328;TM=6896bf7e
-Topic parts: [ '', '138-81-54417', 'test' ]
-Processing new GPS format data
-=== PARSED GPS DATA ===
-REGNO: 138-81-54417
-JDATE: 20250809
-Machin_mac: test
-Time: 20250809 122446
-Latitude: 2.240684
-Longitude: 98.071235
-Speed: 9 Km/h
-Temperature: 28.81 ℃
-Heading: 328
-======================
-✅ Database updated successfully for rkey: 138-81-54417
-Affected rows: 2
-Received message on topic: /138-81-54417/test
-Message payload: LAT=55.920049;LNG=25.832190;T1=28.11;SPD=66;CRS=162;TM=6896bf81
-Topic parts: [ '', '138-81-54417', 'test' ]
-Processing new GPS format data
-=== PARSED GPS DATA ===
-REGNO: 138-81-54417
-JDATE: 20250809
-Machin_mac: test
-Time: 20250809 122449
-Latitude: 55.920049
-Longitude: 25.83219
-Speed: 66 Km/h
-Temperature: 28.11 ℃
-Heading: 162
-======================
-MySQL insert error: Error: Server shutdown in progress
-    at Packet.asError (/Users/user1/Documents/company/test_vhanit/backend/node_modules/mysql2/lib/packets/packet.js:740:17)
-    at Query.execute (/Users/user1/Documents/company/test_vhanit/backend/node_modules/mysql2/lib/commands/command.js:29:26)
-    at Connection.handlePacket (/Users/user1/Documents/company/test_vhanit/backend/node_modules/mysql2/lib/base/connection.js:475:34)
-    at PacketParser.onPacket (/Users/user1/Documents/company/test_vhanit/backend/node_modules/mysql2/lib/base/connection.js:93:12)
-    at PacketParser.executeStart (/Users/user1/Documents/company/test_vhanit/backend/node_modules/mysql2/lib/packet_parser.js:75:16)
-    at Socket.<anonymous> (/Users/user1/Documents/company/test_vhanit/backend/node_modules/mysql2/lib/base/connection.js:100:25)
-    at Socket.emit (node:events:519:28)
-    at addChunk (node:internal/streams/readable:559:12)
-    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
-    at Readable.push (node:internal/streams/readable:390:5) {
-  code: 'ER_SERVER_SHUTDOWN',
-  errno: 1053,
-  sqlState: '08S01',
-  sqlMessage: 'Server shutdown in progress',
-  sql: 'INSERT INTO car_pos \n' +
-    '      (rkey, NAVERAPIKEY, MQTT_IP, MQTT_UserName, MQTT_Password, MQTT_TOPIC, car_id, car_name, expiredt, default_lat, default_lon, Latitude, Longitude, senddt)\n' +
-    "      VALUES ('138-81-54417', 'naver_api_key', 'mqtt.server.ip', 'mqtt_user', 'mqtt_pass', '/138-81-54417/test', '138-81-54417', 'Vehicle 138-81-54417', '20250809', '55.920049', '25.83219', '55.920049', '25.83219', '122449')\n" +
-    '      ON DUPLICATE KEY UPDATE \n' +
-    '        NAVERAPIKEY=VALUES(NAVERAPIKEY),\n' +
-    '        MQTT_IP=VALUES(MQTT_IP),\n' +
-    '        MQTT_UserName=VALUES(MQTT_UserName),\n' +
-    '        MQTT_Password=VALUES(MQTT_Password),\n' +
-    '        MQTT_TOPIC=VALUES(MQTT_TOPIC),\n' +
-    '        car_id=VALUES(car_id),\n' +
-    '        car_name=VALUES(car_name),\n' +
-    '        expiredt=VALUES(expiredt),\n' +
-    '        default_lat=VALUES(default_lat),\n' +
-    '        default_lon=VALUES(default_lon),\n' +
-    '        Latitude=VALUES(Latitude),\n' +
-    '        Longitude=VALUES(Longitude),\n' +
-    '        senddt=VALUES(senddt)'
-}
-MySQL error: Error: Connection lost: The server closed the connection.
-    at Socket.<anonymous> (/Users/user1/Documents/company/test_vhanit/backend/node_modules/mysql2/lib/base/connection.js:113:31)
-    at Socket.emit (node:events:519:28)
-    at TCP.<anonymous> (node:net:339:12) {
-  fatal: true,
-  code: 'PROTOCOL_CONNECTION_LOST'
-}
-MySQL connection lost. Reconnecting...
-MySQL error: Error: Connection lost: The server closed the connection.
-    at Socket.<anonymous> (/Users/user1/Documents/company/test_vhanit/backend/node_modules/mysql2/lib/base/connection.js:113:31)
-    at Socket.emit (node:events:519:28)
-    at TCP.<anonymous> (node:net:339:12) {
-  fatal: true,
-  code: 'PROTOCOL_CONNECTION_LOST'
-}
-MySQL connection lost. Reconnecting...
-MySQL error: Error: Connection lost: The server closed the connection.
-    at Socket.<anonymous> (/Users/user1/Documents/company/test_vhanit/backend/node_modules/mysql2/lib/base/connection.js:113:31)
-    at Socket.emit (node:events:519:28)
-    at TCP.<anonymous> (node:net:339:12) {
-  fatal: true,
-  code: 'PROTOCOL_CONNECTION_LOST'
-}
-MySQL connection lost. Reconnecting...
-MySQL error: Error: Connection lost: The server closed the connection.
-    at Socket.<anonymous> (/Users/user1/Documents/company/test_vhanit/backend/node_modules/mysql2/lib/base/connection.js:113:31)
-    at Socket.emit (node:events:519:28)
-    at TCP.<anonymous> (node:net:339:12) {
-  fatal: true,
-  code: 'PROTOCOL_CONNECTION_LOST'
-}
-MySQL connection lost. Reconnecting...
-Received message on topic: /138-81-54417/test
-Message payload: LAT=39.275766;LNG=112.859024;T1=20.41;SPD=36;CRS=80;TM=6896bf84
-Topic parts: [ '', '138-81-54417', 'test' ]
-Processing new GPS format data
-=== PARSED GPS DATA ===
-REGNO: 138-81-54417
-JDATE: 20250809
-Machin_mac: test
-Time: 20250809 122452
-Latitude: 39.275766
-Longitude: 112.859024
-Speed: 36 Km/h
+Time: 20250809 230849
+Latitude: 59.275547
+Longitude: 153.668965
+Speed: 96 Km/h
 Temperature: 20.41 ℃
-Heading: 80
+Heading: 316
 ======================
-Database not connected, skipping data save for rkey: 138-81-54417
+✅ Database updated successfully for rkey: 138-81-54417
+Affected rows: 2
+Received message on topic: /138-81-54417/test
+Message payload: LAT=67.524445;LNG=131.041031;T1=23.48;SPD=29;CRS=288;TM=6897566c
+Topic parts: [ '', '138-81-54417', 'test' ]
+Processing new GPS format data
+=== PARSED GPS DATA ===
+REGNO: 138-81-54417
+JDATE: 20250809
+Machin_mac: test
+Time: 20250809 230844
+Latitude: 67.524445
+Longitude: 131.041031
+Speed: 29 Km/h
+Temperature: 23.48 ℃
+Heading: 288
+======================
+✅ Database updated successfully for rkey: 138-81-54417
+Affected rows: 2
+Received message on topic: /138-81-54417/test
+Message payload: LAT=86.329728;LNG=163.775360;T1=21.47;SPD=9;CRS=53;TM=68975674
+Topic parts: [ '', '138-81-54417', 'test' ]
+Processing new GPS format data
+=== PARSED GPS DATA ===
+REGNO: 138-81-54417
+JDATE: 20250809
+Machin_mac: test
+Time: 20250809 230852
+Latitude: 86.329728
+Longitude: 163.77536
+Speed: 9 Km/h
+Temperature: 21.47 ℃
+Heading: 53
+======================
+✅ Database updated successfully for rkey: 138-81-54417
+Affected rows: 2
+Received message on topic: /138-81-54417/test
+Message payload: LAT=59.271006;LNG=86.333809;T1=25.40;SPD=62;CRS=28;TM=6897566f
+Topic parts: [ '', '138-81-54417', 'test' ]
+Processing new GPS format data
+=== PARSED GPS DATA ===
+REGNO: 138-81-54417
+JDATE: 20250809
+Machin_mac: test
+Time: 20250809 230847
+Latitude: 59.271006
+Longitude: 86.333809
+Speed: 62 Km/h
+Temperature: 25.4 ℃
+Heading: 28
+======================
+✅ Database updated successfully for rkey: 138-81-54417
+Affected rows: 2
+Received message on topic: /138-81-54417/test
+Message payload: LAT=89.280608;LNG=35.430027;T1=29.66;SPD=62;CRS=208;TM=68975677
+Topic parts: [ '', '138-81-54417', 'test' ]
+Processing new GPS format data
+=== PARSED GPS DATA ===
+REGNO: 138-81-54417
+JDATE: 20250809
+Machin_mac: test
+Time: 20250809 230855
+Latitude: 89.280608
+Longitude: 35.430027
+Speed: 62 Km/h
+Temperature: 29.66 ℃
+Heading: 208
+======================
+✅ Database updated successfully for rkey: 138-81-54417
+Affected rows: 2
+Received message on topic: /138-81-54417/test
+Message payload: LAT=52.297369;LNG=85.786402;T1=28.74;SPD=26;CRS=206;TM=68975672
+Topic parts: [ '', '138-81-54417', 'test' ]
+Processing new GPS format data
+=== PARSED GPS DATA ===
+REGNO: 138-81-54417
+JDATE: 20250809
+Machin_mac: test
+Time: 20250809 230850
+Latitude: 52.297369
+Longitude: 85.786402
+Speed: 26 Km/h
+Temperature: 28.74 ℃
+Heading: 206
+======================
+✅ Database updated successfully for rkey: 138-81-54417
+Affected rows: 2
+Received message on topic: /138-81-54417/test
+Message payload: LAT=55.785008;LNG=60.734683;T1=22.87;SPD=30;CRS=58;TM=6897567a
+Topic parts: [ '', '138-81-54417', 'test' ]
+Processing new GPS format data
+=== PARSED GPS DATA ===
+REGNO: 138-81-54417
+JDATE: 20250809
+Machin_mac: test
+Time: 20250809 230858
+Latitude: 55.785008
+Longitude: 60.734683
+Speed: 30 Km/h
+Temperature: 22.87 ℃
+Heading: 58
+======================
+✅ Database updated successfully for rkey: 138-81-54417
+Affected rows: 2
