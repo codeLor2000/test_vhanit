@@ -1,99 +1,85 @@
 # 🚗 Real-time GPS Tracking System
 
-A real-time GPS tracking system that receives GPS data via MQTT, stores it in MySQL database, and displays it on a React frontend with auto-refresh.
-
-## ✨ Features
-
-- **Real-time GPS tracking** via MQTT protocol
-- **Auto-refresh frontend** every 3 seconds
-- **MySQL database** for data persistence
-- **Fake data generator** for testing
-- **Modern React UI** with visual indicators
-
-## 📁 Project Structure
-
-```
-test_vhanit/
-├── backend/
-│   ├── index.js                # API server (Port 3001)
-│   ├── mqtt-listener.js        # MQTT subscriber & GPS parser
-│   ├── fake-mqtt-pub.js        # Fake GPS data generator
-│   └── package.json
-├── frontend/
-│   ├── src/App.js             # React component with auto-refresh
-│   └── package.json
-├── mysql-init/init.sql        # Database schema
-├── docker-compose.yml         # MySQL container
-├── setup.sh                  # Start all services
-└── stop.sh                   # Stop all services
-```
-
-## 🔧 Prerequisites
-
-- **Node.js** (v16+)
-- **Docker** & **Docker Compose**
+A real-time GPS vehicle tracking system with MQTT data streaming and interactive map tracking.
 
 ## 🚀 Quick Start
 
-### 1. Install Dependencies
+### Option 1: MySQL Database
 ```bash
-# Backend
-cd backend && npm install && cd ..
-
-# Frontend  
-cd frontend && npm install && cd ..
-```
-
-### 2. Run Application
-```bash
-# Start everything automatically
-chmod +x setup.sh
+# Start services
 ./setup.sh
+
+# Access application
+http://localhost:3000
 ```
 
-### 3. Access Application
-- **Frontend**: http://localhost:3000
-- **Backend API**: http://localhost:3001/car_pos
-
-### 4. Stop Services
-```bash
-chmod +x stop.sh
-./stop.sh
+### Option 2: Firebase Database
+1. Create Firebase project at https://console.firebase.google.com
+2. Create Firestore database
+3. Generate service account key (JSON file)
+4. Create `backend/.env`:
+```env
+DATABASE_TYPE=firebase
+FIREBASE_PROJECT_ID=your-project-id
+FIREBASE_CLIENT_EMAIL=your-service-account-email
+FIREBASE_PRIVATE_KEY="-----BEGIN PRIVATE KEY-----\nYour-Private-Key\n-----END PRIVATE KEY-----\n"
 ```
+5. Install dependencies: `cd backend && npm install firebase-admin dotenv`
+6. Run: `./setup.sh`
+
+## 🏗️ Project Structure
+```
+├── backend/
+│   ├── index.js              # Main API server (SSE + REST)
+│   ├── mqtt-listener.js      # MQTT data processor
+│   ├── firebase-config.js    # Firebase operations
+│   └── fake-data-generator.js # Real-time demo data
+├── frontend/
+│   ├── src/Dashboard.js      # Main dashboard (SSE)
+│   └── src/MapView.js        # Vehicle map tracking
+└── docker-compose.yml        # MySQL container
+```
+
+## ✨ Features
+- **Real-time updates** via Server-Sent Events (SSE)
+- **Interactive map tracking** with Google Maps integration
+- **Dual database support** (MySQL/Firebase)
+- **MQTT data streaming** for live GPS coordinates
+- **Responsive web interface** with live status indicators
+
+## 🗺️ Map Tracking
+- Click "Track" button next to any vehicle
+- View real-time location on interactive map
+- Auto-refresh every 10 seconds
+- One-click Google Maps integration
+
+## 🛠️ Usage
+1. **Start system**: `./setup.sh`
+2. **View dashboard**: http://localhost:3000
+3. **Track vehicle**: Click "🗺️ Track" button
+4. **Stop system**: `./stop.sh`
 
 ## 📊 Data Flow
-
-1. **MQTT Data**: `LAT=46.046816;LNG=143.959093;T1=26.3;SPD=10`
-2. **Parse & Store**: GPS data → MySQL database  
-3. **API**: Backend serves data via REST API
-4. **Frontend**: React auto-refreshes every 3 seconds
-
-## 🧪 Testing with Fake Data
-
-The system includes a fake GPS data generator that:
-- Generates random coordinates
-- Simulates vehicle movement  
-- Includes temperature and speed data
-- Auto-publishes to MQTT every 3 seconds
-
-## 🐛 Troubleshooting
-
-```bash
-# Check services
-docker ps                              # MySQL container
-curl http://localhost:3001/car_pos     # Backend API
-tail -f mqtt-listener.log              # MQTT processing
-
-# Restart if needed
-./stop.sh && ./setup.sh
-```
+- **MQTT Broker** → `mqtt-listener.js` → **Database**
+- **Database** → `index.js` (SSE) → **Frontend**
+- **Demo Data**: `fake-data-generator.js` → **Firebase** (for testing)
 
 ## ⚙️ Configuration
+- **Backend**: http://localhost:3001
+- **Frontend**: http://localhost:3000
+- **Database**: MySQL (port 3306) or Firebase
+- **MQTT**: Configurable broker settings
 
-- **MQTT Broker**: `mqtt://www.mjccp.kr`
-- **Database**: MySQL on Docker (localhost:3306)
-- **Polling Interval**: 3 seconds
-- **API Port**: 3001
-- **Frontend Port**: 3000
+## 🔄 Switching Databases
+```bash
+# MySQL mode
+echo "DATABASE_TYPE=mysql" > backend/.env
 
-**Happy tracking!** 🚗📍 
+# Firebase mode  
+echo "DATABASE_TYPE=firebase" >> backend/.env
+```
+
+## 🚨 Troubleshooting
+- **No data showing**: Check `fake-data-generator.js` is running
+- **Connection issues**: Verify `.env` file configuration
+- **Firebase errors**: Ensure service account key is valid 

@@ -1,140 +1,1674 @@
-Attempting to connect to MySQL...
-Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
-Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
-Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
-Backend listening on port 3001
-MySQL connection error: Connection lost: The server closed the connection.
-Retrying in 2 seconds...
-MySQL error: Error: Connection lost: The server closed the connection.
-    at Socket.<anonymous> (/Users/user1/Documents/company/test_vhanit/backend/node_modules/mysql2/lib/base/connection.js:113:31)
-    at Socket.emit (node:events:519:28)
+[dotenv@17.2.1] injecting env (8) from .env -- tip: 📡 observe env with Radar: https://dotenvx.com/radar
+[dotenv@17.2.1] injecting env (0) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+🔥 Using Firebase as database
+🚀 Server running on port 3001
+📊 Database: Firebase
+🔗 API: http://localhost:3001/car_pos
+💚 Health: http://localhost:3001/health
+📡 SSE client connected
+✅ Firebase initialized successfully
+✅ Retrieved 5 vehicles from Firebase
+📡 SSE client connected
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+SSE connection error: Error: aborted
+    at abortIncoming (node:_http_server:797:17)
+    at socketOnClose (node:_http_server:791:3)
+    at Socket.emit (node:events:531:35)
     at TCP.<anonymous> (node:net:339:12) {
-  fatal: true,
-  code: 'PROTOCOL_CONNECTION_LOST'
+  code: 'ECONNRESET'
 }
-MySQL connection lost. Will attempt to reconnect...
-Attempting to connect to MySQL...
-Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
-Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
-Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
-MySQL connection error: Connection lost: The server closed the connection.
-Retrying in 3 seconds...
-MySQL error: Error: Connection lost: The server closed the connection.
-    at Socket.<anonymous> (/Users/user1/Documents/company/test_vhanit/backend/node_modules/mysql2/lib/base/connection.js:113:31)
-    at Socket.emit (node:events:519:28)
+📡 SSE client disconnected
+📡 SSE client connected
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+SSE connection error: Error: aborted
+    at abortIncoming (node:_http_server:797:17)
+    at socketOnClose (node:_http_server:791:3)
+    at Socket.emit (node:events:531:35)
     at TCP.<anonymous> (node:net:339:12) {
-  fatal: true,
-  code: 'PROTOCOL_CONNECTION_LOST'
+  code: 'ECONNRESET'
 }
-MySQL connection lost. Will attempt to reconnect...
-Attempting to connect to MySQL...
-Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
-Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
-Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
-MySQL connection error: Connection lost: The server closed the connection.
-Retrying in 4.5 seconds...
-MySQL error: Error: Connection lost: The server closed the connection.
-    at Socket.<anonymous> (/Users/user1/Documents/company/test_vhanit/backend/node_modules/mysql2/lib/base/connection.js:113:31)
-    at Socket.emit (node:events:519:28)
+📡 SSE client disconnected
+📡 SSE client connected
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+📡 SSE client connected
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+SSE connection error: Error: aborted
+    at abortIncoming (node:_http_server:797:17)
+    at socketOnClose (node:_http_server:791:3)
+    at Socket.emit (node:events:531:35)
     at TCP.<anonymous> (node:net:339:12) {
-  fatal: true,
-  code: 'PROTOCOL_CONNECTION_LOST'
+  code: 'ECONNRESET'
 }
-MySQL connection lost. Will attempt to reconnect...
-Database query error: Error: Can't add new command when connection is in closed state
-    at Connection._addCommandClosedState (/Users/user1/Documents/company/test_vhanit/backend/node_modules/mysql2/lib/base/connection.js:159:17)
-    at Connection.query (/Users/user1/Documents/company/test_vhanit/backend/node_modules/mysql2/lib/base/connection.js:571:17)
-    at /Users/user1/Documents/company/test_vhanit/backend/index.js:97:6
-    at Layer.handle [as handle_request] (/Users/user1/Documents/company/test_vhanit/backend/node_modules/express/lib/router/layer.js:95:5)
-    at next (/Users/user1/Documents/company/test_vhanit/backend/node_modules/express/lib/router/route.js:149:13)
-    at Route.dispatch (/Users/user1/Documents/company/test_vhanit/backend/node_modules/express/lib/router/route.js:119:3)
-    at Layer.handle [as handle_request] (/Users/user1/Documents/company/test_vhanit/backend/node_modules/express/lib/router/layer.js:95:5)
-    at /Users/user1/Documents/company/test_vhanit/backend/node_modules/express/lib/router/index.js:284:15
-    at Function.process_params (/Users/user1/Documents/company/test_vhanit/backend/node_modules/express/lib/router/index.js:346:12)
-    at next (/Users/user1/Documents/company/test_vhanit/backend/node_modules/express/lib/router/index.js:280:10) {
-  fatal: true
-}
-Database query error: Error: Can't add new command when connection is in closed state
-    at Connection._addCommandClosedState (/Users/user1/Documents/company/test_vhanit/backend/node_modules/mysql2/lib/base/connection.js:159:17)
-    at Connection.query (/Users/user1/Documents/company/test_vhanit/backend/node_modules/mysql2/lib/base/connection.js:571:17)
-    at /Users/user1/Documents/company/test_vhanit/backend/index.js:97:6
-    at Layer.handle [as handle_request] (/Users/user1/Documents/company/test_vhanit/backend/node_modules/express/lib/router/layer.js:95:5)
-    at next (/Users/user1/Documents/company/test_vhanit/backend/node_modules/express/lib/router/route.js:149:13)
-    at Route.dispatch (/Users/user1/Documents/company/test_vhanit/backend/node_modules/express/lib/router/route.js:119:3)
-    at Layer.handle [as handle_request] (/Users/user1/Documents/company/test_vhanit/backend/node_modules/express/lib/router/layer.js:95:5)
-    at /Users/user1/Documents/company/test_vhanit/backend/node_modules/express/lib/router/index.js:284:15
-    at Function.process_params (/Users/user1/Documents/company/test_vhanit/backend/node_modules/express/lib/router/index.js:346:12)
-    at next (/Users/user1/Documents/company/test_vhanit/backend/node_modules/express/lib/router/index.js:280:10) {
-  fatal: true
-}
-Attempting to connect to MySQL...
-Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
-Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
-Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
-MySQL connection error: Connection lost: The server closed the connection.
-Retrying in 6.75 seconds...
-MySQL error: Error: Connection lost: The server closed the connection.
-    at Socket.<anonymous> (/Users/user1/Documents/company/test_vhanit/backend/node_modules/mysql2/lib/base/connection.js:113:31)
-    at Socket.emit (node:events:519:28)
+📡 SSE client disconnected
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+📡 SSE client connected
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+SSE connection error: Error: aborted
+    at abortIncoming (node:_http_server:797:17)
+    at socketOnClose (node:_http_server:791:3)
+    at Socket.emit (node:events:531:35)
     at TCP.<anonymous> (node:net:339:12) {
-  fatal: true,
-  code: 'PROTOCOL_CONNECTION_LOST'
+  code: 'ECONNRESET'
 }
-MySQL connection lost. Will attempt to reconnect...
-Attempting to connect to MySQL...
-Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
-Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
-Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
-MySQL connection error: Connection lost: The server closed the connection.
-Retrying in 10.125 seconds...
-MySQL error: Error: Connection lost: The server closed the connection.
-    at Socket.<anonymous> (/Users/user1/Documents/company/test_vhanit/backend/node_modules/mysql2/lib/base/connection.js:113:31)
-    at Socket.emit (node:events:519:28)
+📡 SSE client disconnected
+SSE connection error: Error: aborted
+    at abortIncoming (node:_http_server:797:17)
+    at socketOnClose (node:_http_server:791:3)
+    at Socket.emit (node:events:531:35)
     at TCP.<anonymous> (node:net:339:12) {
-  fatal: true,
-  code: 'PROTOCOL_CONNECTION_LOST'
+  code: 'ECONNRESET'
 }
-MySQL connection lost. Will attempt to reconnect...
-Database query error: Error: Can't add new command when connection is in closed state
-    at Connection._addCommandClosedState (/Users/user1/Documents/company/test_vhanit/backend/node_modules/mysql2/lib/base/connection.js:159:17)
-    at Connection.query (/Users/user1/Documents/company/test_vhanit/backend/node_modules/mysql2/lib/base/connection.js:571:17)
-    at /Users/user1/Documents/company/test_vhanit/backend/index.js:97:6
-    at Layer.handle [as handle_request] (/Users/user1/Documents/company/test_vhanit/backend/node_modules/express/lib/router/layer.js:95:5)
-    at next (/Users/user1/Documents/company/test_vhanit/backend/node_modules/express/lib/router/route.js:149:13)
-    at Route.dispatch (/Users/user1/Documents/company/test_vhanit/backend/node_modules/express/lib/router/route.js:119:3)
-    at Layer.handle [as handle_request] (/Users/user1/Documents/company/test_vhanit/backend/node_modules/express/lib/router/layer.js:95:5)
-    at /Users/user1/Documents/company/test_vhanit/backend/node_modules/express/lib/router/index.js:284:15
-    at Function.process_params (/Users/user1/Documents/company/test_vhanit/backend/node_modules/express/lib/router/index.js:346:12)
-    at next (/Users/user1/Documents/company/test_vhanit/backend/node_modules/express/lib/router/index.js:280:10) {
-  fatal: true
+📡 SSE client disconnected
+📡 SSE client connected
+📡 SSE client connected
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+SSE connection error: Error: aborted
+    at abortIncoming (node:_http_server:797:17)
+    at socketOnClose (node:_http_server:791:3)
+    at Socket.emit (node:events:531:35)
+    at TCP.<anonymous> (node:net:339:12) {
+  code: 'ECONNRESET'
 }
-Attempting to connect to MySQL...
-Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
-Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
-Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
-Connected to MySQL successfully
-Attempting to connect to MySQL...
-Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
-Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
-Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
-Connected to MySQL successfully
-Attempting to connect to MySQL...
-Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
-Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
-Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
-Connected to MySQL successfully
-Attempting to connect to MySQL...
-Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
-Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
-Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
-Connected to MySQL successfully
-Attempting to connect to MySQL...
-Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
-Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
-Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
-Connected to MySQL successfully
-Attempting to connect to MySQL...
-Ignoring invalid configuration option passed to Connection: acquireTimeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
-Ignoring invalid configuration option passed to Connection: timeout. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
-Ignoring invalid configuration option passed to Connection: reconnect. This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection
-Connected to MySQL successfully
+📡 SSE client disconnected
+📡 SSE client connected
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+SSE connection error: Error: aborted
+    at abortIncoming (node:_http_server:797:17)
+    at socketOnClose (node:_http_server:791:3)
+    at Socket.emit (node:events:531:35)
+    at TCP.<anonymous> (node:net:339:12) {
+  code: 'ECONNRESET'
+}
+📡 SSE client disconnected
+📡 SSE client connected
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+SSE connection error: Error: aborted
+    at abortIncoming (node:_http_server:797:17)
+    at socketOnClose (node:_http_server:791:3)
+    at Socket.emit (node:events:531:35)
+    at TCP.<anonymous> (node:net:339:12) {
+  code: 'ECONNRESET'
+}
+📡 SSE client disconnected
+📡 SSE client connected
+✅ Retrieved 5 vehicles from Firebase
+SSE connection error: Error: aborted
+    at abortIncoming (node:_http_server:797:17)
+    at socketOnClose (node:_http_server:791:3)
+    at Socket.emit (node:events:531:35)
+    at TCP.<anonymous> (node:net:339:12) {
+  code: 'ECONNRESET'
+}
+📡 SSE client disconnected
+📡 SSE client connected
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+📡 SSE client connected
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+SSE connection error: Error: aborted
+    at abortIncoming (node:_http_server:797:17)
+    at socketOnClose (node:_http_server:791:3)
+    at Socket.emit (node:events:531:35)
+    at TCP.<anonymous> (node:net:339:12) {
+  code: 'ECONNRESET'
+}
+📡 SSE client disconnected
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+SSE connection error: Error: aborted
+    at abortIncoming (node:_http_server:797:17)
+    at socketOnClose (node:_http_server:791:3)
+    at Socket.emit (node:events:531:35)
+    at TCP.<anonymous> (node:net:339:12) {
+  code: 'ECONNRESET'
+}
+📡 SSE client disconnected
+📡 SSE client connected
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+SSE connection error: Error: aborted
+    at abortIncoming (node:_http_server:797:17)
+    at socketOnClose (node:_http_server:791:3)
+    at Socket.emit (node:events:531:35)
+    at TCP.<anonymous> (node:net:339:12) {
+  code: 'ECONNRESET'
+}
+📡 SSE client disconnected
+📡 SSE client connected
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+SSE connection error: Error: aborted
+    at abortIncoming (node:_http_server:797:17)
+    at socketOnClose (node:_http_server:791:3)
+    at Socket.emit (node:events:531:35)
+    at TCP.<anonymous> (node:net:339:12) {
+  code: 'ECONNRESET'
+}
+📡 SSE client disconnected
+📡 SSE client connected
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+SSE connection error: Error: aborted
+    at abortIncoming (node:_http_server:797:17)
+    at socketOnClose (node:_http_server:791:3)
+    at Socket.emit (node:events:531:35)
+    at TCP.<anonymous> (node:net:339:12) {
+  code: 'ECONNRESET'
+}
+📡 SSE client disconnected
+📡 SSE client connected
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+📡 SSE client connected
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+SSE connection error: Error: aborted
+    at abortIncoming (node:_http_server:797:17)
+    at socketOnClose (node:_http_server:791:3)
+    at Socket.emit (node:events:531:35)
+    at TCP.<anonymous> (node:net:339:12) {
+  code: 'ECONNRESET'
+}
+📡 SSE client disconnected
+📡 SSE client connected
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+SSE connection error: Error: aborted
+    at abortIncoming (node:_http_server:797:17)
+    at socketOnClose (node:_http_server:791:3)
+    at Socket.emit (node:events:531:35)
+    at TCP.<anonymous> (node:net:339:12) {
+  code: 'ECONNRESET'
+}
+📡 SSE client disconnected
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+📡 SSE client connected
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+SSE connection error: Error: aborted
+    at abortIncoming (node:_http_server:797:17)
+    at socketOnClose (node:_http_server:791:3)
+    at Socket.emit (node:events:531:35)
+    at TCP.<anonymous> (node:net:339:12) {
+  code: 'ECONNRESET'
+}
+📡 SSE client disconnected
+📡 SSE client connected
+SSE connection error: Error: aborted
+    at abortIncoming (node:_http_server:797:17)
+    at socketOnClose (node:_http_server:791:3)
+    at Socket.emit (node:events:531:35)
+    at TCP.<anonymous> (node:net:339:12) {
+  code: 'ECONNRESET'
+}
+📡 SSE client disconnected
+📡 SSE client connected
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+SSE connection error: Error: aborted
+    at abortIncoming (node:_http_server:797:17)
+    at socketOnClose (node:_http_server:791:3)
+    at Socket.emit (node:events:531:35)
+    at TCP.<anonymous> (node:net:339:12) {
+  code: 'ECONNRESET'
+}
+📡 SSE client disconnected
+📡 SSE client connected
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+SSE connection error: Error: aborted
+    at abortIncoming (node:_http_server:797:17)
+    at socketOnClose (node:_http_server:791:3)
+    at Socket.emit (node:events:531:35)
+    at TCP.<anonymous> (node:net:339:12) {
+  code: 'ECONNRESET'
+}
+📡 SSE client disconnected
+📡 SSE client connected
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+SSE connection error: Error: aborted
+    at abortIncoming (node:_http_server:797:17)
+    at socketOnClose (node:_http_server:791:3)
+    at Socket.emit (node:events:531:35)
+    at TCP.<anonymous> (node:net:339:12) {
+  code: 'ECONNRESET'
+}
+📡 SSE client disconnected
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+📡 SSE client connected
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+SSE connection error: Error: aborted
+    at abortIncoming (node:_http_server:797:17)
+    at socketOnClose (node:_http_server:791:3)
+    at Socket.emit (node:events:531:35)
+    at TCP.<anonymous> (node:net:339:12) {
+  code: 'ECONNRESET'
+}
+📡 SSE client disconnected
+📡 SSE client connected
+SSE connection error: Error: aborted
+    at abortIncoming (node:_http_server:797:17)
+    at socketOnClose (node:_http_server:791:3)
+    at Socket.emit (node:events:531:35)
+    at TCP.<anonymous> (node:net:339:12) {
+  code: 'ECONNRESET'
+}
+📡 SSE client disconnected
+📡 SSE client connected
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+SSE connection error: Error: aborted
+    at abortIncoming (node:_http_server:797:17)
+    at socketOnClose (node:_http_server:791:3)
+    at Socket.emit (node:events:531:35)
+    at TCP.<anonymous> (node:net:339:12) {
+  code: 'ECONNRESET'
+}
+📡 SSE client disconnected
+📡 SSE client connected
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+SSE connection error: Error: aborted
+    at abortIncoming (node:_http_server:797:17)
+    at socketOnClose (node:_http_server:791:3)
+    at Socket.emit (node:events:531:35)
+    at TCP.<anonymous> (node:net:339:12) {
+  code: 'ECONNRESET'
+}
+📡 SSE client disconnected
+📡 SSE client connected
+SSE connection error: Error: aborted
+    at abortIncoming (node:_http_server:797:17)
+    at socketOnClose (node:_http_server:791:3)
+    at Socket.emit (node:events:531:35)
+    at TCP.<anonymous> (node:net:339:12) {
+  code: 'ECONNRESET'
+}
+📡 SSE client disconnected
+📡 SSE client connected
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+SSE connection error: Error: aborted
+    at abortIncoming (node:_http_server:797:17)
+    at socketOnClose (node:_http_server:791:3)
+    at Socket.emit (node:events:531:35)
+    at TCP.<anonymous> (node:net:339:12) {
+  code: 'ECONNRESET'
+}
+📡 SSE client disconnected
+📡 SSE client connected
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase
+✅ Retrieved 5 vehicles from Firebase

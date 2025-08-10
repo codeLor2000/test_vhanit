@@ -1,0 +1,926 @@
+[dotenv@17.2.1] injecting env (8) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+[dotenv@17.2.1] injecting env (0) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+🔥 Starting fake GPS data generator...
+📊 Database: Firebase
+🔄 Update interval: 5 seconds
+🚗 Vehicles: 4
+
+🚗 Generating fake GPS data...
+✅ Firebase initialized successfully
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.031741, Lng=105.806566, Temp=31°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.768663, Lng=106.663656, Temp=25°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.043713, Lng=108.214529, Temp=35°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.719425, Lng=115.343821, Temp=30°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.028113, Lng=105.801813, Temp=23°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.754493, Lng=106.661416, Temp=27°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.053339, Lng=108.198548, Temp=24°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.728738, Lng=115.349588, Temp=21°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.038464, Lng=105.812716, Temp=29°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.764077, Lng=106.65532400000001, Temp=23°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.0562, Lng=108.20989300000001, Temp=33°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.726814, Lng=115.335157, Temp=32°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.023181, Lng=105.8015, Temp=30°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.764442, Lng=106.651124, Temp=25°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.041188000000002, Lng=108.212016, Temp=23°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.729375999999995, Lng=115.336354, Temp=26°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.030005000000003, Lng=105.804539, Temp=25°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.770552, Lng=106.65942, Temp=30°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.05513, Lng=108.21312, Temp=31°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.722139999999996, Lng=115.333504, Temp=18°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.036616000000002, Lng=105.813033, Temp=35°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.764308, Lng=106.666315, Temp=24°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.045994, Lng=108.210114, Temp=35°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.721289, Lng=115.342948, Temp=34°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.020857000000003, Lng=105.810835, Temp=31°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.767663, Lng=106.669554, Temp=35°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.045694, Lng=108.209507, Temp=31°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.718044, Lng=115.349799, Temp=24°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.027477, Lng=105.809699, Temp=27°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.758615, Lng=106.669929, Temp=18°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.057059, Lng=108.215479, Temp=23°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.723752, Lng=115.336361, Temp=18°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.024593000000003, Lng=105.81332, Temp=21°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.752671000000001, Lng=106.668567, Temp=31°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.050355, Lng=108.204042, Temp=35°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.714404, Lng=115.332391, Temp=21°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.023712000000003, Lng=105.801562, Temp=20°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.753421000000001, Lng=106.669158, Temp=24°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.055707, Lng=108.202048, Temp=29°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.731930999999996, Lng=115.338528, Temp=34°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.022794, Lng=105.795835, Temp=34°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.772621000000001, Lng=106.659621, Temp=18°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.037147, Lng=108.198498, Temp=28°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.72813, Lng=115.350353, Temp=32°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.037711, Lng=105.797474, Temp=20°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.771315, Lng=106.66646200000001, Temp=20°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.048728, Lng=108.20550200000001, Temp=29°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.715568, Lng=115.338158, Temp=28°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.029922000000003, Lng=105.805059, Temp=24°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.7593, Lng=106.657604, Temp=30°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.038417, Lng=108.19658600000001, Temp=31°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.721593999999996, Lng=115.340222, Temp=19°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.024181000000002, Lng=105.808403, Temp=28°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.772515, Lng=106.662569, Temp=26°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.050173, Lng=108.19624400000001, Temp=31°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.731936999999995, Lng=115.33967, Temp=19°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.019650000000002, Lng=105.811854, Temp=20°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.763238000000001, Lng=106.651495, Temp=20°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.055578, Lng=108.216122, Temp=18°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.723637, Lng=115.3374, Temp=18°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.020353, Lng=105.811781, Temp=35°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.759366, Lng=106.653065, Temp=32°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.055258, Lng=108.209618, Temp=30°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.726417, Lng=115.34478, Temp=27°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.019094000000003, Lng=105.804104, Temp=25°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.766614, Lng=106.662099, Temp=25°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.056978, Lng=108.20741100000001, Temp=26°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.730112, Lng=115.343756, Temp=25°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.026452000000003, Lng=105.810877, Temp=27°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.761203, Lng=106.66667100000001, Temp=19°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.056645, Lng=108.20182700000001, Temp=25°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.717648, Lng=115.343682, Temp=26°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.021961, Lng=105.801137, Temp=24°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.771505000000001, Lng=106.664438, Temp=33°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.0457, Lng=108.205478, Temp=23°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.717563, Lng=115.344953, Temp=32°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.026752000000002, Lng=105.808534, Temp=24°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.757108, Lng=106.65865600000001, Temp=33°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.040434, Lng=108.20472600000001, Temp=22°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.716566, Lng=115.336179, Temp=27°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.024375000000003, Lng=105.799744, Temp=30°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.753503, Lng=106.66834200000001, Temp=19°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.037796, Lng=108.209664, Temp=23°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.715616, Lng=115.339911, Temp=18°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.032974000000003, Lng=105.805126, Temp=21°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.7652, Lng=106.652057, Temp=20°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.045394, Lng=108.200792, Temp=32°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.717791, Lng=115.344579, Temp=23°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.037041000000002, Lng=105.798224, Temp=29°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.765206000000001, Lng=106.650795, Temp=33°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.046832, Lng=108.198937, Temp=33°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.723358, Lng=115.349178, Temp=28°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.027546, Lng=105.799852, Temp=33°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.765267, Lng=106.65177200000001, Temp=25°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.037485, Lng=108.199217, Temp=26°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.721134, Lng=115.334802, Temp=34°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.026287000000004, Lng=105.801511, Temp=32°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.756253000000001, Lng=106.65302, Temp=21°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.042065, Lng=108.210639, Temp=32°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.725311, Lng=115.342163, Temp=22°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.029677000000003, Lng=105.802106, Temp=27°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.772168, Lng=106.669, Temp=20°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.04035, Lng=108.196601, Temp=18°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.731308, Lng=115.348376, Temp=27°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.023253, Lng=105.80955, Temp=23°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.76662, Lng=106.662542, Temp=25°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.046786, Lng=108.202419, Temp=30°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.731266, Lng=115.332442, Temp=35°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.032103000000003, Lng=105.813668, Temp=25°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.759541, Lng=106.655389, Temp=19°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.047799, Lng=108.209404, Temp=24°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.731674999999996, Lng=115.347515, Temp=33°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.021444000000002, Lng=105.796756, Temp=25°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.76493, Lng=106.65571200000001, Temp=33°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.051558, Lng=108.21467, Temp=28°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.729754, Lng=115.349752, Temp=30°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.025359, Lng=105.813332, Temp=31°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.760321000000001, Lng=106.663587, Temp=35°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.03873, Lng=108.204555, Temp=31°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.727482, Lng=115.34445, Temp=33°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.022564000000003, Lng=105.795562, Temp=29°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.756982, Lng=106.651784, Temp=32°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.050638, Lng=108.210525, Temp=33°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.718439, Lng=115.346357, Temp=34°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.036879000000003, Lng=105.809583, Temp=21°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.764672000000001, Lng=106.668392, Temp=29°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.046187, Lng=108.19917000000001, Temp=26°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.719767, Lng=115.335506, Temp=32°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.026470000000003, Lng=105.79851, Temp=29°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.752722, Lng=106.669315, Temp=28°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.054554, Lng=108.198071, Temp=29°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.730339, Lng=115.340022, Temp=23°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.024407, Lng=105.795936, Temp=24°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.754513000000001, Lng=106.66989000000001, Temp=32°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.040188, Lng=108.20385200000001, Temp=29°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.731375, Lng=115.342062, Temp=29°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.030256, Lng=105.799078, Temp=32°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.759631, Lng=106.656293, Temp=32°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.038016, Lng=108.20592500000001, Temp=25°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.715256, Lng=115.339186, Temp=31°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.019250000000003, Lng=105.807936, Temp=32°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.771413, Lng=106.652271, Temp=31°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.040921, Lng=108.197922, Temp=32°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.717380999999996, Lng=115.34816500000001, Temp=21°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.030511, Lng=105.810496, Temp=33°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.766455, Lng=106.654993, Temp=19°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.049313, Lng=108.20157800000001, Temp=18°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.72559, Lng=115.34658, Temp=21°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.027008000000002, Lng=105.804898, Temp=18°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.769868, Lng=106.656726, Temp=18°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.040053, Lng=108.209925, Temp=34°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.724285, Lng=115.344883, Temp=27°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.022807, Lng=105.799142, Temp=35°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.764936, Lng=106.660359, Temp=18°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.040342, Lng=108.19857300000001, Temp=23°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.727148, Lng=115.347708, Temp=33°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.027219000000002, Lng=105.808069, Temp=32°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.75899, Lng=106.655854, Temp=33°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.053611, Lng=108.213711, Temp=27°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.726189999999995, Lng=115.336434, Temp=20°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.025131000000002, Lng=105.795103, Temp=26°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.757575000000001, Lng=106.668025, Temp=22°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.046666, Lng=108.20318400000001, Temp=30°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.729965, Lng=115.345901, Temp=28°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.023056, Lng=105.797607, Temp=21°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.772442, Lng=106.668915, Temp=22°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.044411, Lng=108.21130000000001, Temp=19°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.719376, Lng=115.334948, Temp=25°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.02984, Lng=105.808751, Temp=21°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.762729, Lng=106.659825, Temp=30°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.037694, Lng=108.210482, Temp=35°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.718454, Lng=115.332819, Temp=19°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.038275000000002, Lng=105.801034, Temp=31°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.75855, Lng=106.66319800000001, Temp=20°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.039625, Lng=108.19841600000001, Temp=25°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.731787, Lng=115.347035, Temp=28°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.035126, Lng=105.800497, Temp=18°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.754882, Lng=106.660379, Temp=21°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.050749, Lng=108.20696500000001, Temp=28°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.729518999999996, Lng=115.33183700000001, Temp=24°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.022431, Lng=105.798814, Temp=19°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.75519, Lng=106.66354100000001, Temp=34°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.037376000000002, Lng=108.19633400000001, Temp=34°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.732937, Lng=115.341614, Temp=33°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.029733, Lng=105.809312, Temp=30°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.755668, Lng=106.658697, Temp=31°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.053048, Lng=108.196636, Temp=33°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.720361, Lng=115.339143, Temp=23°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.0288, Lng=105.812391, Temp=25°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.755613, Lng=106.65621900000001, Temp=30°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.038054, Lng=108.207577, Temp=22°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.724376, Lng=115.34544, Temp=34°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.022329000000003, Lng=105.798667, Temp=29°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.760585, Lng=106.660182, Temp=20°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.0543, Lng=108.20717900000001, Temp=23°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.717151, Lng=115.344564, Temp=29°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.037261, Lng=105.809128, Temp=23°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.759352, Lng=106.65660700000001, Temp=30°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.037673, Lng=108.20428100000001, Temp=30°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.729001, Lng=115.342681, Temp=24°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.027704000000004, Lng=105.810065, Temp=30°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.759558, Lng=106.668871, Temp=18°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.048889, Lng=108.206642, Temp=28°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.717801, Lng=115.348455, Temp=23°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.023721000000002, Lng=105.802908, Temp=23°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.763160000000001, Lng=106.657081, Temp=33°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.054908, Lng=108.196607, Temp=31°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.725435, Lng=115.349824, Temp=25°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.029708000000003, Lng=105.807059, Temp=26°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.758509, Lng=106.65779400000001, Temp=20°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.044944, Lng=108.20345300000001, Temp=35°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.715073, Lng=115.35019700000001, Temp=26°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.034885000000003, Lng=105.798283, Temp=21°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.765565, Lng=106.666105, Temp=23°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.051231, Lng=108.210373, Temp=20°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.714628999999995, Lng=115.33445400000001, Temp=30°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.037617, Lng=105.810258, Temp=29°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.7699, Lng=106.658227, Temp=18°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.054576, Lng=108.196246, Temp=24°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.714005, Lng=115.341256, Temp=21°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.025236000000003, Lng=105.810979, Temp=34°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.754295, Lng=106.666314, Temp=22°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.041654, Lng=108.19896800000001, Temp=27°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.724154999999996, Lng=115.332258, Temp=20°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.038496000000002, Lng=105.810268, Temp=23°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.765628, Lng=106.657332, Temp=20°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.047746, Lng=108.213319, Temp=19°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.729687999999996, Lng=115.332942, Temp=24°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.030443, Lng=105.802888, Temp=31°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.760606000000001, Lng=106.65276300000001, Temp=31°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.048076000000002, Lng=108.19707600000001, Temp=19°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.722379, Lng=115.34935, Temp=26°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.038066, Lng=105.80360399999999, Temp=29°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.764862, Lng=106.651516, Temp=22°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.054535, Lng=108.21522, Temp=33°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.716654999999996, Lng=115.337305, Temp=35°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.019371000000003, Lng=105.808035, Temp=22°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.75816, Lng=106.656249, Temp=22°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.056271, Lng=108.210443, Temp=29°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.723822, Lng=115.34103, Temp=21°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.024822, Lng=105.805215, Temp=23°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.755938, Lng=106.66528100000001, Temp=32°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.044514, Lng=108.20174800000001, Temp=20°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.715637, Lng=115.346512, Temp=27°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.022183000000002, Lng=105.806367, Temp=22°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.76781, Lng=106.668802, Temp=35°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.045922, Lng=108.198305, Temp=22°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.723796, Lng=115.342664, Temp=22°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.029767000000003, Lng=105.80803, Temp=23°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.754582000000001, Lng=106.667102, Temp=18°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.054393, Lng=108.21522300000001, Temp=25°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.721627999999995, Lng=115.337286, Temp=34°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.022753, Lng=105.810177, Temp=23°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.769542, Lng=106.659222, Temp=30°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.046924, Lng=108.19915900000001, Temp=25°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.717304999999996, Lng=115.345828, Temp=20°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.018985, Lng=105.806462, Temp=21°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.75838, Lng=106.653298, Temp=29°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.048133, Lng=108.199054, Temp=20°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.718067999999995, Lng=115.333308, Temp=22°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.027476, Lng=105.797879, Temp=25°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.753863, Lng=106.66051300000001, Temp=22°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.048688, Lng=108.20282300000001, Temp=22°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.715579999999996, Lng=115.345077, Temp=21°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.019023, Lng=105.799944, Temp=27°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.758698, Lng=106.669293, Temp=35°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.041335, Lng=108.20793300000001, Temp=25°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.718199999999996, Lng=115.346947, Temp=25°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.021861, Lng=105.812004, Temp=33°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.764269, Lng=106.65368600000001, Temp=22°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.041217, Lng=108.207082, Temp=18°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.725438, Lng=115.340706, Temp=23°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.029311000000003, Lng=105.811583, Temp=21°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.76882, Lng=106.665919, Temp=35°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.051691, Lng=108.213043, Temp=20°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.733599999999996, Lng=115.333201, Temp=31°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.020162000000003, Lng=105.802173, Temp=18°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.752967, Lng=106.65221100000001, Temp=31°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.041033, Lng=108.209745, Temp=33°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.714295, Lng=115.343935, Temp=21°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.034278, Lng=105.806813, Temp=32°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.763200000000001, Lng=106.66436, Temp=34°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.039417, Lng=108.21149000000001, Temp=23°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.732456, Lng=115.348636, Temp=32°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.029918000000002, Lng=105.804065, Temp=21°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.755176, Lng=106.653664, Temp=22°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.045355, Lng=108.19784, Temp=32°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.725226, Lng=115.333268, Temp=25°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.020797, Lng=105.808057, Temp=20°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.771678, Lng=106.65448500000001, Temp=27°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.053805, Lng=108.200731, Temp=35°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.730696, Lng=115.346279, Temp=33°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.023916000000003, Lng=105.797278, Temp=25°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.761378, Lng=106.662515, Temp=22°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.042844, Lng=108.20904800000001, Temp=19°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.720202, Lng=115.341162, Temp=18°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.023725000000002, Lng=105.799218, Temp=32°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.757851, Lng=106.667955, Temp=18°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.037784, Lng=108.21061, Temp=27°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.728162, Lng=115.35152000000001, Temp=23°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.037392, Lng=105.800885, Temp=34°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.76601, Lng=106.665304, Temp=25°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.037753, Lng=108.19733500000001, Temp=23°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.726815, Lng=115.350196, Temp=22°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.028262, Lng=105.808929, Temp=27°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.770062000000001, Lng=106.65532300000001, Temp=21°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.0517, Lng=108.200923, Temp=31°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.719232, Lng=115.344921, Temp=35°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.022117, Lng=105.803438, Temp=22°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.765331, Lng=106.659063, Temp=27°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.049378, Lng=108.210513, Temp=23°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.724865, Lng=115.34821000000001, Temp=28°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.029548000000002, Lng=105.798558, Temp=26°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.764501000000001, Lng=106.663084, Temp=23°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.040318, Lng=108.203344, Temp=34°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.719449, Lng=115.334735, Temp=21°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.026512, Lng=105.807308, Temp=35°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.756708, Lng=106.666461, Temp=21°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.047741, Lng=108.209719, Temp=35°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.7318, Lng=115.336291, Temp=26°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.028926000000002, Lng=105.796873, Temp=31°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.763161, Lng=106.661389, Temp=20°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.038047, Lng=108.211307, Temp=32°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.718454, Lng=115.334469, Temp=29°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.027284, Lng=105.799884, Temp=35°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.768274, Lng=106.650721, Temp=25°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.045948, Lng=108.196438, Temp=20°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.716640999999996, Lng=115.349872, Temp=20°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.020227000000002, Lng=105.802822, Temp=23°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.756756000000001, Lng=106.66142500000001, Temp=18°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.053871, Lng=108.204499, Temp=34°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.725243999999996, Lng=115.34971, Temp=22°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.019872000000003, Lng=105.811935, Temp=30°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.755054000000001, Lng=106.662631, Temp=26°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.0446, Lng=108.205645, Temp=20°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.72448, Lng=115.34225500000001, Temp=26°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.023611000000002, Lng=105.812882, Temp=32°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.753421000000001, Lng=106.661865, Temp=35°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.053957, Lng=108.21341500000001, Temp=28°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.716201999999996, Lng=115.345259, Temp=35°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.035486000000002, Lng=105.798562, Temp=21°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.769084000000001, Lng=106.651863, Temp=33°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.044545, Lng=108.21375400000001, Temp=35°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.732104, Lng=115.347937, Temp=18°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.022146000000003, Lng=105.803301, Temp=28°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.762094000000001, Lng=106.654639, Temp=26°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.050249, Lng=108.212969, Temp=22°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.719516, Lng=115.333311, Temp=21°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.020958, Lng=105.799112, Temp=32°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.770631, Lng=106.654906, Temp=34°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.056304, Lng=108.202381, Temp=23°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.723172999999996, Lng=115.351052, Temp=27°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.026741, Lng=105.811409, Temp=30°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.763399, Lng=106.655004, Temp=26°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.056814, Lng=108.20959900000001, Temp=20°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.71826, Lng=115.331894, Temp=29°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.037446000000003, Lng=105.809559, Temp=25°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.769232, Lng=106.66115, Temp=29°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.056978, Lng=108.20814800000001, Temp=35°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.716874, Lng=115.342934, Temp=33°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.020927, Lng=105.79664, Temp=34°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.772613, Lng=106.657369, Temp=32°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.042362, Lng=108.198694, Temp=19°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.722145, Lng=115.337538, Temp=23°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.037578000000003, Lng=105.798609, Temp=27°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.771923000000001, Lng=106.65538500000001, Temp=18°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.051715, Lng=108.210856, Temp=20°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.724388999999995, Lng=115.331779, Temp=22°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.020309, Lng=105.800621, Temp=28°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.764283, Lng=106.6573, Temp=30°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.038899, Lng=108.214555, Temp=35°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.714273999999996, Lng=115.33569200000001, Temp=26°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.027181000000002, Lng=105.808175, Temp=33°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.766154, Lng=106.662381, Temp=33°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.048633, Lng=108.21353500000001, Temp=21°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.721649, Lng=115.340431, Temp=19°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.023744, Lng=105.809916, Temp=24°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.767826000000001, Lng=106.661097, Temp=34°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.0431, Lng=108.207847, Temp=33°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.717369, Lng=115.345898, Temp=20°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.022744000000003, Lng=105.798827, Temp=33°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.756637, Lng=106.664108, Temp=35°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.049981, Lng=108.209619, Temp=34°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.716803999999996, Lng=115.335352, Temp=21°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.020531000000002, Lng=105.796395, Temp=26°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.75449, Lng=106.656526, Temp=35°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.044468, Lng=108.215373, Temp=26°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.731569, Lng=115.34438, Temp=31°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.038362000000003, Lng=105.812953, Temp=29°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.764707, Lng=106.650519, Temp=18°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.04569, Lng=108.20891, Temp=31°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.720091, Lng=115.343439, Temp=25°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.033502000000002, Lng=105.805451, Temp=29°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.767208, Lng=106.651256, Temp=35°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.051984, Lng=108.196852, Temp=19°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.726737, Lng=115.3433, Temp=28°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.022084000000003, Lng=105.807502, Temp=32°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.758083000000001, Lng=106.668345, Temp=20°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.04899, Lng=108.19851700000001, Temp=27°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.731356999999996, Lng=115.335775, Temp=28°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.024384, Lng=105.811581, Temp=31°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.765029, Lng=106.6512, Temp=32°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.044549, Lng=108.208887, Temp=22°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.732116, Lng=115.347193, Temp=30°C
+🚗 Generating fake GPS data...
+✅ Vehicle data saved to Firebase: vehicle001
+✅ Updated Honda Civic 001: Lat=21.033797000000003, Lng=105.79589, Temp=27°C
+✅ Vehicle data saved to Firebase: vehicle002
+✅ Updated Toyota Camry 002: Lat=10.757364, Lng=106.66067, Temp=22°C
+✅ Vehicle data saved to Firebase: vehicle003
+✅ Updated Mazda CX5 003: Lat=16.054158, Lng=108.198628, Temp=29°C
+✅ Vehicle data saved to Firebase: 138-81-54417
+✅ Updated Vehicle 138-81-54417: Lat=44.719635, Lng=115.350682, Temp=30°C
